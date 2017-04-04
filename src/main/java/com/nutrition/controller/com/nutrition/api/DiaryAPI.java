@@ -10,7 +10,7 @@ public class DiaryAPI {
 
     // consider :
 
-//    how best to model diary. List with each diary entry attirutes.
+//    how best to model diary. List with each diary entry attributes.
 //    to begin : List<food>, a diary date
 
     private FoodDiary foodDiary;
